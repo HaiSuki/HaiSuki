@@ -1,4 +1,5 @@
-# 🐱
+# hi im eddie!
+reach out to me via discord @styxen
 
 <!--
 **HaiSuki/HaiSuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
